@@ -14,7 +14,8 @@
 	],
 	"homepage" : "https://github.com/ines-satel/TranslationFormBundle",
 	"license" : "MIT",
-	"authors" : [{}
+	"authors" : [
+		"null"
 	],
 	"minimum-stability" : "dev",
 	"prefer-stable" : true,
@@ -40,7 +41,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"ines-satel\\TranslationFormBundle\\" : ""
+			"A2lix\\TranslationFormBundle\\" : ""
 		},
 		"exclude-from-classmap" : [
 			"/Tests/"
