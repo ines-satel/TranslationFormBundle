@@ -14,11 +14,10 @@
 	],
 	"homepage" : "https://github.com/ines-satel/TranslationFormBundle",
 	"license" : "MIT",
-	"authors" : [{
-			"name" : "",
-			"homepage" : ""
-		}
+	"authors" : [{}
 	],
+	"minimum-stability" : "dev",
+	"prefer-stable" : true,
 	"require" : {
 		"php" : "^7.1.3",
 		"symfony/form" : "^4.0",
