@@ -1,5 +1,5 @@
 {
-	"name" : "ines-satel/translation-form-bundle",
+	"name" : "satelines/translation-form-bundle",
 	"type" : "symfony-bundle",
 	"description" : "Translate your doctrine objects easily with some helps",
 	"keywords" : [
@@ -12,11 +12,8 @@
 		"form",
 		"knplabs"
 	],
-	"homepage" : "https://github.com/ines-satel/TranslationFormBundle",
+	"homepage" : "https://github.com/satelines/TranslationFormBundle",
 	"license" : "MIT",
-	"authors" : [
-		"null"
-	],
 	"minimum-stability" : "dev",
 	"prefer-stable" : true,
 	"require" : {
