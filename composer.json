@@ -1,6 +1,11 @@
 {
 	"name" : "satelines/translation-form-bundle",
 	"type" : "symfony-bundle",
+	"repositories" : [{
+			"type" : "vcs",
+			"url" : "https://github.com/satelines/AutoFormBundle"
+		}
+	],
 	"description" : "Translate your doctrine objects easily with some helps",
 	"keywords" : [
 		"symfony",
@@ -23,7 +28,7 @@
 		"symfony/http-kernel" : "^4.0",
 		"symfony/config" : "^4.0",
 		"symfony/doctrine-bridge" : "^4.0",
-		"a2lix/auto-form-bundle" : "@dev"
+		"satelines/auto-form-bundle" : "dev-master"
 	},
 	"require-dev" : {
 		"symfony/validator" : "^4.0",
